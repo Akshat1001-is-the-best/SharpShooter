@@ -53,7 +53,6 @@ clock = pygame.time.Clock()
 
 def main_game():
     #Player Class
-    print("test 123")
     class Player:
 
         def __init__(self, x1, y1, x2, y2):
